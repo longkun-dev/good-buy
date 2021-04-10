@@ -1,0 +1,15 @@
+
+系统名称：好卖商城系统（goodbuy merchant system）
+
+系统定位：网上商城
+
+实现功能：商品管理、展示、网上支付、订单管理、物流查询、售后。
+
+系统模块：
+商家端：仓储管理、商品管理、订单管理、财务管理。
+客户端：订单管理、物流追踪。
+
+开发语言：Java、Python
+数据库：MySQL、Redis、Hadoop
+中间件：MyBatis、RocketMQ
+框架：Spring Cloud
